@@ -29,7 +29,5 @@ The Ahrefs Keyword Sentiment Analysis Tool is designed to enrich your SEO keywor
 4. Place your Ahrefs keyword export CSV and Google Cloud credentials JSON in the root directory.
 5. Run the script and let it enrich your keyword data with sentiment analysis.
 
-## How to Contribute
 
-Contributions are welcome! If you have suggestions for improvement or want to add features, please feel free to fork the repository, make your changes, and create a pull request.
 <a href="httpds;//williamsmedia.co">Williams Media SEO Team</a>
